@@ -15,7 +15,7 @@ When you are ready to submit your template for **public use**, create a Markdown
 * `instructions`: Add any details needed to use your character sheet. If it does some computations, you may tell them.
 * `Version`: You have to specify which version of rolisteam and RCSE you used for creating the charactersheet.
 * `Licence`: Add the text of your licence. You are the author of the sheet. You have to decide how you share it.
-
+* `Status`: Completed, WIP, draft
 
 Guidelines
 ==========
