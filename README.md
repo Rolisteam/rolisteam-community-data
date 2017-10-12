@@ -8,11 +8,11 @@ If you want to help improve an existing sheet, just clone this repository, make 
 
 **Adding .rcs File**
 
-When you are ready to submit your template for **public use**, create a Markdown file in your sheet's folder. The file should have the following fields:
+When you are ready to submit your template for **public use**, create a Markdown file in your sheet's folder. Call it README.md. The file should have the following fields:
 
-* `authors`: A simple string telling who contributed toward the sheet (e.g. `John Smith`)
-* `contact`: A simple string describing how to contact you. You may give an email address, a nickname and the link on a forum, social network account whatever you want? 
-* `instructions`: Add any details needed to use your character sheet. If it does some computations, you may tell them.
+* `Authors`: A simple string telling who contributed toward the sheet (e.g. `John Smith`)
+* `Contact`: A simple string describing how to contact you. You may give an email address, a nickname and the link on a forum, social network account whatever you want? 
+* `Instructions`: Add any details needed to use your character sheet. If it does some computations, you may tell them.
 * `Version`: You have to specify which version of rolisteam and RCSE you used for creating the charactersheet.
 * `Licence`: Add the text of your licence. You are the author of the sheet. You have to decide how you share it.
 * `Status`: Completed, WIP, draft
