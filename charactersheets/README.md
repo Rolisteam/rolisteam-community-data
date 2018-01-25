@@ -8,7 +8,7 @@ If you want to help improve an existing sheet, just clone this repository, make 
 
 **Adding .rcs File**
 
-When you are ready to submit your template for **public use**, create a Markdown file in your sheet's folder. Call it README.md. The file should have the following fields:
+When you are ready to submit your template for **public use**, create a Markdown file in your sheet's folder. Call it **README.md**. The file should have the following fields:
 
 * `Authors`: A simple string telling who contributed toward the sheet (e.g. `John Smith`)
 * `Contact`: A simple string describing how to contact you. You may give an email address, a nickname and the link on a forum, social network account whatever you want? 
