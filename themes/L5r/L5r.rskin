@@ -1,0 +1,354 @@
+{
+    "bgColor": "#bfbfbf",
+    "bgPath": "/home/renaud/documents/jdr/01_Scenariotheque/Ancestral_Armor_of_the_Dragon_Clan.jpg",
+    "colors": [
+        {
+            "color": "#4c4c4c",
+            "group": 0,
+            "name": "WindowText",
+            "role": 0
+        },
+        {
+            "color": "#f2f1f0",
+            "group": 0,
+            "name": "Button",
+            "role": 1
+        },
+        {
+            "color": "#ffffff",
+            "group": 0,
+            "name": "Light",
+            "role": 2
+        },
+        {
+            "color": "#e9e7e3",
+            "group": 0,
+            "name": "Midlight",
+            "role": 3
+        },
+        {
+            "color": "#cac9c8",
+            "group": 0,
+            "name": "Dark",
+            "role": 4
+        },
+        {
+            "color": "#a0a0a4",
+            "group": 0,
+            "name": "Mid",
+            "role": 5
+        },
+        {
+            "color": "#3c3c3c",
+            "group": 0,
+            "name": "Text",
+            "role": 6
+        },
+        {
+            "color": "#ffffff",
+            "group": 0,
+            "name": "BrightText",
+            "role": 7
+        },
+        {
+            "color": "#ffffff",
+            "group": 0,
+            "name": "Base",
+            "role": 9
+        },
+        {
+            "color": "#f2f1f0",
+            "group": 0,
+            "name": "Window",
+            "role": 10
+        },
+        {
+            "color": "#babab9",
+            "group": 0,
+            "name": "Shadow",
+            "role": 11
+        },
+        {
+            "color": "#f07746",
+            "group": 0,
+            "name": "Highlight",
+            "role": 12
+        },
+        {
+            "color": "#ffffff",
+            "group": 0,
+            "name": "WindowText",
+            "role": 13
+        },
+        {
+            "color": "#0000ff",
+            "group": 0,
+            "name": "Link",
+            "role": 14
+        },
+        {
+            "color": "#ff00ff",
+            "group": 0,
+            "name": "LinkVisited",
+            "role": 15
+        },
+        {
+            "color": "#efefef",
+            "group": 0,
+            "name": "AlternateBase",
+            "role": 16
+        },
+        {
+            "color": "#ffffdc",
+            "group": 0,
+            "name": "ToolTipBase",
+            "role": 18
+        },
+        {
+            "color": "#000000",
+            "group": 0,
+            "name": "ToolTipText",
+            "role": 19
+        },
+        {
+            "color": "#000000",
+            "group": 0,
+            "name": "NoRole",
+            "role": 17
+        },
+        {
+            "color": "#4c4c4c",
+            "group": 2,
+            "name": "WindowText",
+            "role": 0
+        },
+        {
+            "color": "#f2f1f0",
+            "group": 2,
+            "name": "Button",
+            "role": 1
+        },
+        {
+            "color": "#ffffff",
+            "group": 2,
+            "name": "Light",
+            "role": 2
+        },
+        {
+            "color": "#e9e7e3",
+            "group": 2,
+            "name": "Midlight",
+            "role": 3
+        },
+        {
+            "color": "#cac9c8",
+            "group": 2,
+            "name": "Dark",
+            "role": 4
+        },
+        {
+            "color": "#a0a0a4",
+            "group": 2,
+            "name": "Mid",
+            "role": 5
+        },
+        {
+            "color": "#3c3c3c",
+            "group": 2,
+            "name": "Text",
+            "role": 6
+        },
+        {
+            "color": "#ffffff",
+            "group": 2,
+            "name": "BrightText",
+            "role": 7
+        },
+        {
+            "color": "#ffffff",
+            "group": 2,
+            "name": "Base",
+            "role": 9
+        },
+        {
+            "color": "#f2f1f0",
+            "group": 2,
+            "name": "Window",
+            "role": 10
+        },
+        {
+            "color": "#babab9",
+            "group": 2,
+            "name": "Shadow",
+            "role": 11
+        },
+        {
+            "color": "#e5e3e1",
+            "group": 2,
+            "name": "Highlight",
+            "role": 12
+        },
+        {
+            "color": "#2a2a2a",
+            "group": 2,
+            "name": "WindowText",
+            "role": 13
+        },
+        {
+            "color": "#0000ff",
+            "group": 2,
+            "name": "Link",
+            "role": 14
+        },
+        {
+            "color": "#ff00ff",
+            "group": 2,
+            "name": "LinkVisited",
+            "role": 15
+        },
+        {
+            "color": "#efefef",
+            "group": 2,
+            "name": "AlternateBase",
+            "role": 16
+        },
+        {
+            "color": "#ffffdc",
+            "group": 2,
+            "name": "ToolTipBase",
+            "role": 18
+        },
+        {
+            "color": "#000000",
+            "group": 2,
+            "name": "ToolTipText",
+            "role": 19
+        },
+        {
+            "color": "#000000",
+            "group": 2,
+            "name": "NoRole",
+            "role": 17
+        },
+        {
+            "color": "#9f9e9e",
+            "group": 1,
+            "name": "WindowText",
+            "role": 0
+        },
+        {
+            "color": "#f2f1f0",
+            "group": 1,
+            "name": "Button",
+            "role": 1
+        },
+        {
+            "color": "#ffffff",
+            "group": 1,
+            "name": "Light",
+            "role": 2
+        },
+        {
+            "color": "#e9e7e3",
+            "group": 1,
+            "name": "Midlight",
+            "role": 3
+        },
+        {
+            "color": "#cac9c8",
+            "group": 1,
+            "name": "Dark",
+            "role": 4
+        },
+        {
+            "color": "#a0a0a4",
+            "group": 1,
+            "name": "Mid",
+            "role": 5
+        },
+        {
+            "color": "#9f9e9e",
+            "group": 1,
+            "name": "Text",
+            "role": 6
+        },
+        {
+            "color": "#ffffff",
+            "group": 1,
+            "name": "BrightText",
+            "role": 7
+        },
+        {
+            "color": "#ffffff",
+            "group": 1,
+            "name": "Base",
+            "role": 9
+        },
+        {
+            "color": "#f2f1f0",
+            "group": 1,
+            "name": "Window",
+            "role": 10
+        },
+        {
+            "color": "#babab9",
+            "group": 1,
+            "name": "Shadow",
+            "role": 11
+        },
+        {
+            "color": "#f0f0f0",
+            "group": 1,
+            "name": "Highlight",
+            "role": 12
+        },
+        {
+            "color": "#ffffff",
+            "group": 1,
+            "name": "WindowText",
+            "role": 13
+        },
+        {
+            "color": "#0000ff",
+            "group": 1,
+            "name": "Link",
+            "role": 14
+        },
+        {
+            "color": "#ff00ff",
+            "group": 1,
+            "name": "LinkVisited",
+            "role": 15
+        },
+        {
+            "color": "#efefef",
+            "group": 1,
+            "name": "AlternateBase",
+            "role": 16
+        },
+        {
+            "color": "#ffffdc",
+            "group": 1,
+            "name": "ToolTipBase",
+            "role": 18
+        },
+        {
+            "color": "#000000",
+            "group": 1,
+            "name": "ToolTipText",
+            "role": 19
+        },
+        {
+            "color": "#000000",
+            "group": 1,
+            "name": "NoRole",
+            "role": 17
+        }
+    ],
+    "css": "",
+    "diceHighlight": "#000000",
+    "name": "L5r",
+    "position": 2,
+    "removable": true,
+    "stylename": "fusion"
+}
