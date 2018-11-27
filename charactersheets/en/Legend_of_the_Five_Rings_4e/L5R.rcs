@@ -26,7 +26,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "name",
-                "label": "",
+                "label": "Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -57,7 +57,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "clan",
-                "label": "",
+                "label": "Clan",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -88,7 +88,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "school",
-                "label": "",
+                "label": "School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -119,7 +119,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "rank",
-                "label": "",
+                "label": "Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -150,7 +150,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "experience",
-                "label": "",
+                "label": "Experience",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -181,7 +181,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "insight",
-                "label": "",
+                "label": "Insight",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -212,7 +212,7 @@
                 "formula": "",
                 "height": 40,
                 "id": "stamina",
-                "label": "",
+                "label": "Stamina",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -243,7 +243,7 @@
                 "formula": "",
                 "height": 40,
                 "id": "willpower",
-                "label": "",
+                "label": "Willpower",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -274,7 +274,7 @@
                 "formula": "",
                 "height": 40,
                 "id": "strength",
-                "label": "",
+                "label": "Strenght",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -305,7 +305,7 @@
                 "formula": "",
                 "height": 40,
                 "id": "perception",
-                "label": "",
+                "label": "Perception",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -336,7 +336,7 @@
                 "formula": "",
                 "height": 40,
                 "id": "reflexes",
-                "label": "",
+                "label": "Reflexes",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -367,7 +367,7 @@
                 "formula": "",
                 "height": 40,
                 "id": "awareness",
-                "label": "",
+                "label": "Awareness",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -398,7 +398,7 @@
                 "formula": "",
                 "height": 40,
                 "id": "agility",
-                "label": "",
+                "label": "Agility",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -429,7 +429,7 @@
                 "formula": "",
                 "height": 40,
                 "id": "intelligence",
-                "label": "",
+                "label": "Intelligence",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -460,7 +460,7 @@
                 "formula": "",
                 "height": 40,
                 "id": "ring_earth",
-                "label": "",
+                "label": "Earth",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -491,7 +491,7 @@
                 "formula": "",
                 "height": 40,
                 "id": "ring_water",
-                "label": "",
+                "label": "Water",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -522,7 +522,7 @@
                 "formula": "",
                 "height": 40,
                 "id": "ring_air",
-                "label": "",
+                "label": "Air",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -553,7 +553,7 @@
                 "formula": "",
                 "height": 40,
                 "id": "ring_fire",
-                "label": "",
+                "label": "Fire",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -584,7 +584,7 @@
                 "formula": "",
                 "height": 40,
                 "id": "ring_void",
-                "label": "",
+                "label": "Void",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -615,7 +615,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "void_spent_1",
-                "label": "",
+                "label": "Void Spent 1",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -646,7 +646,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "void_spent_2",
-                "label": "",
+                "label": "Void Spent 2",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -677,7 +677,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "void_spent_3",
-                "label": "",
+                "label": "Void Spent 3",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -708,7 +708,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "void_spent_4",
-                "label": "",
+                "label": "Void Spent 4",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -739,7 +739,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "void_spent_5",
-                "label": "",
+                "label": "Void Spent 5",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -770,7 +770,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "void_spent_6",
-                "label": "",
+                "label": "Void Spent 6",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -801,7 +801,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "void_spent_7",
-                "label": "",
+                "label": "Void Spent 7",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -832,7 +832,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "void_spent_8",
-                "label": "",
+                "label": "Void Spent 8",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -863,7 +863,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "void_spent_9",
-                "label": "",
+                "label": "Void Spent 9",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -894,7 +894,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "void_spent_10",
-                "label": "",
+                "label": "Void Spent 10",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -925,7 +925,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "honor",
-                "label": "",
+                "label": "Honor",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -956,7 +956,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "honor_1",
-                "label": "",
+                "label": "Honor 1",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -987,7 +987,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "honor_2",
-                "label": "",
+                "label": "Honor 2",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1018,7 +1018,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "honor_3",
-                "label": "",
+                "label": "Honor 3",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1049,7 +1049,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "honor_4",
-                "label": "",
+                "label": "Honor 4",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1080,7 +1080,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "honor_5",
-                "label": "",
+                "label": "Honor 5",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1111,7 +1111,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "honor_6",
-                "label": "",
+                "label": "Honor 6",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1142,7 +1142,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "honor_7",
-                "label": "",
+                "label": "Honor 7",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1173,7 +1173,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "honor_8",
-                "label": "",
+                "label": "Honor 8",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1204,7 +1204,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "honor_9",
-                "label": "",
+                "label": "Honor 9",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1235,7 +1235,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "honor_10",
-                "label": "",
+                "label": "Honor 10",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1266,7 +1266,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "glory",
-                "label": "",
+                "label": "Glory",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1297,7 +1297,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "glory_1",
-                "label": "",
+                "label": "Glory 1",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1328,7 +1328,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "glory_2",
-                "label": "",
+                "label": "Glory 2",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1359,7 +1359,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "glory_3",
-                "label": "",
+                "label": "Glory 3",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1390,7 +1390,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "glory_4",
-                "label": "",
+                "label": "Glory 4",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1421,7 +1421,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "glory_5",
-                "label": "",
+                "label": "Glory 5",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1452,7 +1452,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "glory_6",
-                "label": "",
+                "label": "Glory 6",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1483,7 +1483,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "glory_7",
-                "label": "",
+                "label": "Glory 7",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1514,7 +1514,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "glory_8",
-                "label": "",
+                "label": "Glory 8",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1545,7 +1545,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "glory_9",
-                "label": "",
+                "label": "Glory 9",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1576,7 +1576,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "glory_10",
-                "label": "",
+                "label": "Glory 10",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1607,7 +1607,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "status",
-                "label": "",
+                "label": "Status",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1638,7 +1638,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "status_1",
-                "label": "",
+                "label": "Status 1",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1669,7 +1669,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "status_2",
-                "label": "",
+                "label": "Status 2",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1700,7 +1700,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "status_3",
-                "label": "",
+                "label": "Status 3",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1731,7 +1731,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "status_4",
-                "label": "",
+                "label": "Status 4",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1762,7 +1762,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "status_5",
-                "label": "",
+                "label": "Status 5",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1793,7 +1793,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "status_6",
-                "label": "",
+                "label": "Status 6",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1824,7 +1824,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "status_7",
-                "label": "",
+                "label": "Status 7",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1855,7 +1855,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "status_8",
-                "label": "",
+                "label": "Status 8",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1886,7 +1886,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "status_9",
-                "label": "",
+                "label": "Status 9",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1917,7 +1917,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "status_10",
-                "label": "",
+                "label": "Status 10",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1948,7 +1948,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "shadowlands_taint",
-                "label": "",
+                "label": "Shadowlands Taint",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -1979,7 +1979,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "shadowlands_taint_1",
-                "label": "",
+                "label": "Shadowlands Taint 1",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2010,7 +2010,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "shadowlands_taint_2",
-                "label": "",
+                "label": "Shadowlands Taint 2",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2041,7 +2041,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "shadowlands_taint_3",
-                "label": "",
+                "label": "Shadowlands Taint 3",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2072,7 +2072,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "shadowlands_taint_4",
-                "label": "",
+                "label": "Shadowlands Taint 4",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2103,7 +2103,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "shadowlands_taint_5",
-                "label": "",
+                "label": "Shadowlands Taint 5",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2134,7 +2134,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "shadowlands_taint_6",
-                "label": "",
+                "label": "Shadowlands Taint 6",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2165,7 +2165,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "shadowlands_taint_7",
-                "label": "",
+                "label": "Shadowlands Taint 7",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2196,7 +2196,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "shadowlands_taint_8",
-                "label": "",
+                "label": "Shadowlands Taint 8",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2227,7 +2227,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "shadowlands_taint_9",
-                "label": "",
+                "label": "Shadowlands Taint 9",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2258,7 +2258,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "shadowlands_taint_10",
-                "label": "",
+                "label": "Shadowlands Taint 10",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2289,7 +2289,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "initiative_insight_rank_reflexes",
-                "label": "",
+                "label": "Initiative Insight Rank/Reflexes",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2320,7 +2320,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "initiative_modifiers",
-                "label": "",
+                "label": "Initiative Modifiers",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2351,7 +2351,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "initiative_current_initiative",
-                "label": "",
+                "label": "Initiative Current Initiative",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2382,7 +2382,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "armor_base_tn",
-                "label": "",
+                "label": "Armor Base TN",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2413,7 +2413,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "armor_current_tn",
-                "label": "",
+                "label": "Armor Current TN",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2444,7 +2444,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "armor_base_reduction",
-                "label": "",
+                "label": "Armor Base Reduction",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2475,7 +2475,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "armor_current_reduction",
-                "label": "",
+                "label": "Armor Current Reduction",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2506,7 +2506,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "armor_type",
-                "label": "",
+                "label": "Armor Type",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2537,7 +2537,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "armor_tn_bonus",
-                "label": "",
+                "label": "Armor TN Bonus",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2568,7 +2568,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "reduction_bonus",
-                "label": "",
+                "label": "Armor Reduction Bonus",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2599,7 +2599,7 @@
                 "formula": "",
                 "height": 49,
                 "id": "armor_note",
-                "label": "",
+                "label": "Armor Notes",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2630,7 +2630,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "penalties_healthy",
-                "label": "",
+                "label": "Penalties Healthy",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2661,7 +2661,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "penalties_nicked",
-                "label": "",
+                "label": "Penalties Nicked",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2692,7 +2692,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "penalties_grazed",
-                "label": "",
+                "label": "Penalties Grazed",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2723,7 +2723,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "penalties_hurt",
-                "label": "",
+                "label": "Penalties Hurt",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2754,7 +2754,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "penalties_injured",
-                "label": "",
+                "label": "Penalties Injured",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2785,7 +2785,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "penalties_crippled",
-                "label": "",
+                "label": "Penalties Crippled",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2816,7 +2816,7 @@
                 "formula": "",
                 "height": 48,
                 "id": "penalties_down",
-                "label": "",
+                "label": "Penalties Down",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2847,7 +2847,7 @@
                 "formula": "",
                 "height": 48,
                 "id": "penalties_out",
-                "label": "",
+                "label": "Penalties Out",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2878,7 +2878,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "total_healthy",
-                "label": "",
+                "label": "Total Healthy",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2909,7 +2909,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "total_nicked",
-                "label": "",
+                "label": "Total Nicked",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2940,7 +2940,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "total_grazed",
-                "label": "",
+                "label": "Total Grazed",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -2971,7 +2971,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "total_hurt",
-                "label": "",
+                "label": "Total Hurt",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3002,7 +3002,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "total_injured",
-                "label": "",
+                "label": "Total Injured",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3033,7 +3033,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "total_crippled",
-                "label": "",
+                "label": "Total Crippled",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3064,7 +3064,7 @@
                 "formula": "",
                 "height": 48,
                 "id": "total_down",
-                "label": "",
+                "label": "Total Down",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3095,7 +3095,7 @@
                 "formula": "",
                 "height": 48,
                 "id": "total_out",
-                "label": "",
+                "label": "Total Out",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3126,7 +3126,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "current_healthy",
-                "label": "",
+                "label": "Current Healthy",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3157,7 +3157,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "current_nicked",
-                "label": "",
+                "label": "Current Nicked",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3188,7 +3188,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "current_grazed",
-                "label": "",
+                "label": "Current Grazed",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3219,7 +3219,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "current_hurt",
-                "label": "",
+                "label": "Current Hurt",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3250,7 +3250,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "current_injured",
-                "label": "",
+                "label": "Current Injured",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3281,7 +3281,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "current_crippled",
-                "label": "",
+                "label": "Current Crippled",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3312,7 +3312,7 @@
                 "formula": "",
                 "height": 48,
                 "id": "current_down",
-                "label": "",
+                "label": "Current Down",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3343,7 +3343,7 @@
                 "formula": "",
                 "height": 48,
                 "id": "current_out",
-                "label": "",
+                "label": "Current Out",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3374,7 +3374,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "wound_heal_stamina_insight",
-                "label": "",
+                "label": "Wound Heal Stamina + Insight Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3405,7 +3405,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "wound_heal_modifiers",
-                "label": "",
+                "label": "Wound Heal Modifiers",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3436,7 +3436,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "wound_heal_current_rate",
-                "label": "",
+                "label": "Wound Heal Current Rate",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3467,7 +3467,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "weapon_1_type",
-                "label": "",
+                "label": "Weapon 1 Type",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3498,7 +3498,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "weapon_1_attack",
-                "label": "",
+                "label": "Weapon 1 Attack",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3529,7 +3529,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "weapon_1_damage",
-                "label": "",
+                "label": "Weapon 1 Damage",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3560,7 +3560,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "weapon_1_bonus",
-                "label": "",
+                "label": "Weapon 1 Bonus",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3591,7 +3591,7 @@
                 "formula": "",
                 "height": 53,
                 "id": "weapon_1_notes",
-                "label": "",
+                "label": "Weapon 1 Notes",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3622,7 +3622,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "weapon_2_type",
-                "label": "",
+                "label": "Weapon 2 Type",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3653,7 +3653,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "weapon_2_attack",
-                "label": "",
+                "label": "Weapon 2 Attack",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3684,7 +3684,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "weapon_2_damage",
-                "label": "",
+                "label": "Weapon 2 Damage",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3715,7 +3715,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "weapon_2_bonus",
-                "label": "",
+                "label": "Weapon 2 Bonus",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3746,7 +3746,7 @@
                 "formula": "",
                 "height": 53,
                 "id": "weapon_2_notes",
-                "label": "",
+                "label": "Weapon 2 Notes",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3777,7 +3777,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_1_type",
-                "label": "",
+                "label": "Arrow 1 Type",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3808,7 +3808,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_1_damage",
-                "label": "",
+                "label": "Arrow 1 Damage",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3839,7 +3839,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_1_quantity",
-                "label": "",
+                "label": "Arrow 1 Quantity",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3870,7 +3870,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_2_type",
-                "label": "",
+                "label": "Arrow 2 Type",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3901,7 +3901,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_2_damage",
-                "label": "",
+                "label": "Arrow 2 Damage",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3932,7 +3932,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_2_quantity",
-                "label": "",
+                "label": "Arrow 2 Quantity",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3963,7 +3963,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_3_type",
-                "label": "",
+                "label": "Arrow 3 Type",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -3994,7 +3994,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_3_damage",
-                "label": "",
+                "label": "Arrow 3 Damage",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4025,7 +4025,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_3_quantity",
-                "label": "",
+                "label": "Arrow 3 Quantity",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4056,7 +4056,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_4_type",
-                "label": "",
+                "label": "Arrow 4 Type",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4087,7 +4087,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_4_damage",
-                "label": "",
+                "label": "Arrow 4 Damage",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4118,7 +4118,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_4_quantity",
-                "label": "",
+                "label": "Arrow 4 Quantity",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4149,7 +4149,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_5_type",
-                "label": "",
+                "label": "Arrow 5 Type",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4180,7 +4180,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_5_damage",
-                "label": "",
+                "label": "Arrow 5 Damage",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4211,7 +4211,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "arrow_5_quantity",
-                "label": "",
+                "label": "Arrow 5 Quantity",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4242,7 +4242,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_1_school",
-                "label": "",
+                "label": "Skill 1 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4273,7 +4273,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_2_school",
-                "label": "",
+                "label": "Skill 2 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4304,7 +4304,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_3_school",
-                "label": "",
+                "label": "Skill 3 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4335,7 +4335,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_4_school",
-                "label": "",
+                "label": "Skill 4 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4366,7 +4366,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_5_school",
-                "label": "",
+                "label": "Skill 5 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4397,7 +4397,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_6_school",
-                "label": "",
+                "label": "Skill 6 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4428,7 +4428,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_7_school",
-                "label": "",
+                "label": "Skill 7 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4459,7 +4459,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_8_school",
-                "label": "",
+                "label": "Skill 8 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4490,7 +4490,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_9_school",
-                "label": "",
+                "label": "Skill 9 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4521,7 +4521,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_10_school",
-                "label": "",
+                "label": "Skill 10 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4552,7 +4552,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_11_school",
-                "label": "",
+                "label": "Skill 11 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4583,7 +4583,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_12_school",
-                "label": "",
+                "label": "Skill 12 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4614,7 +4614,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_13_school",
-                "label": "",
+                "label": "Skill 13 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4645,7 +4645,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_14_school",
-                "label": "",
+                "label": "Skill 14 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4676,7 +4676,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_15_school",
-                "label": "",
+                "label": "Skill 15 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4707,7 +4707,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_16_school",
-                "label": "",
+                "label": "Skill 16 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4738,7 +4738,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_17_school",
-                "label": "",
+                "label": "Skill 17 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4769,7 +4769,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_18_school",
-                "label": "",
+                "label": "Skill 18 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4800,7 +4800,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_19_school",
-                "label": "",
+                "label": "Skill 19 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4831,7 +4831,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_20_school",
-                "label": "",
+                "label": "Skill 20 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4862,7 +4862,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_21_school",
-                "label": "",
+                "label": "Skill 21 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4893,7 +4893,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_22_school",
-                "label": "",
+                "label": "Skill 22 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4924,7 +4924,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_23_school",
-                "label": "",
+                "label": "Skill 23 School",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4955,7 +4955,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_1_name",
-                "label": "",
+                "label": "Skill 1 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -4986,7 +4986,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_2_name",
-                "label": "",
+                "label": "Skill 2 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5017,7 +5017,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_3_name",
-                "label": "",
+                "label": "Skill 3 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5048,7 +5048,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_4_name",
-                "label": "",
+                "label": "Skill 4 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5079,7 +5079,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_5_name",
-                "label": "",
+                "label": "Skill 5 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5110,7 +5110,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_6_name",
-                "label": "",
+                "label": "Skill 6 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5141,7 +5141,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_7_name",
-                "label": "",
+                "label": "Skill 7 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5172,7 +5172,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_8_name",
-                "label": "",
+                "label": "Skill 8 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5203,7 +5203,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_9_name",
-                "label": "",
+                "label": "Skill 9 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5234,7 +5234,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_10_name",
-                "label": "",
+                "label": "Skill 10 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5265,7 +5265,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_11_name",
-                "label": "",
+                "label": "Skill 11 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5296,7 +5296,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_12_name",
-                "label": "",
+                "label": "Skill 12 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5327,7 +5327,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_13_name",
-                "label": "",
+                "label": "Skill 13 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5358,7 +5358,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_14_name",
-                "label": "",
+                "label": "Skill 14 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5389,7 +5389,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_15_name",
-                "label": "",
+                "label": "Skill 15 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5420,7 +5420,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_16_name",
-                "label": "",
+                "label": "Skill 16 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5451,7 +5451,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_17_name",
-                "label": "",
+                "label": "Skill 17 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5482,7 +5482,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_18_name",
-                "label": "",
+                "label": "Skill 18 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5513,7 +5513,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_19_name",
-                "label": "",
+                "label": "Skill 19 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5544,7 +5544,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_20_name",
-                "label": "",
+                "label": "Skill 20 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5575,7 +5575,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_21_name",
-                "label": "",
+                "label": "Skill 21 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5606,7 +5606,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_22_name",
-                "label": "",
+                "label": "Skill 22 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5637,7 +5637,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_23_name",
-                "label": "",
+                "label": "Skill 23 Name",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5668,7 +5668,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_1_rank",
-                "label": "",
+                "label": "Skill 1 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5699,7 +5699,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_2_rank",
-                "label": "",
+                "label": "Skill 2 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5730,7 +5730,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_3_rank",
-                "label": "",
+                "label": "Skill 3 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5761,7 +5761,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_4_rank",
-                "label": "",
+                "label": "Skill 4 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5792,7 +5792,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_5_rank",
-                "label": "",
+                "label": "Skill 4 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5823,7 +5823,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_6_rank",
-                "label": "",
+                "label": "Skill 5 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5854,7 +5854,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_7_rank",
-                "label": "",
+                "label": "Skill 6 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5885,7 +5885,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_8_rank",
-                "label": "",
+                "label": "Skill 7 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5916,7 +5916,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_9_rank",
-                "label": "",
+                "label": "Skill 8 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5947,7 +5947,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_10_rank",
-                "label": "",
+                "label": "Skill 9 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -5978,7 +5978,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_11_rank",
-                "label": "",
+                "label": "Skill 10 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6009,7 +6009,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_12_rank",
-                "label": "",
+                "label": "Skill 11 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6040,7 +6040,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_13_rank",
-                "label": "",
+                "label": "Skill 12 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6071,7 +6071,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_14_rank",
-                "label": "",
+                "label": "Skill 13 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6102,7 +6102,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_15_rank",
-                "label": "",
+                "label": "Skill 14 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6133,7 +6133,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_16_rank",
-                "label": "",
+                "label": "Skill 15 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6164,7 +6164,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_17_rank",
-                "label": "",
+                "label": "Skill 16 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6195,7 +6195,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_18_rank",
-                "label": "",
+                "label": "Skill 17 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6226,7 +6226,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_19_rank",
-                "label": "",
+                "label": "Skill 18 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6257,7 +6257,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_20_rank",
-                "label": "",
+                "label": "Skill 19 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6288,7 +6288,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_21_rank",
-                "label": "",
+                "label": "Skill 20 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6319,7 +6319,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_22_rank",
-                "label": "",
+                "label": "Skill 21 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6350,7 +6350,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_23_rank",
-                "label": "",
+                "label": "Skill 22 Rank",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6381,7 +6381,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_1_trait",
-                "label": "",
+                "label": "Skill 1 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6412,7 +6412,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_2_trait",
-                "label": "",
+                "label": "Skill 2 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6443,7 +6443,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_3_trait",
-                "label": "",
+                "label": "Skill 3 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6474,7 +6474,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_4_trait",
-                "label": "",
+                "label": "Skill 4 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6505,7 +6505,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_5_trait",
-                "label": "",
+                "label": "Skill 5 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6536,7 +6536,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_6_trait",
-                "label": "",
+                "label": "Skill 6 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6567,7 +6567,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_7_trait",
-                "label": "",
+                "label": "Skill 7 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6598,7 +6598,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_8_trait",
-                "label": "",
+                "label": "Skill 8 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6629,7 +6629,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_9_trait",
-                "label": "",
+                "label": "Skill 9 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6660,7 +6660,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_10_trait",
-                "label": "",
+                "label": "Skill 10 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6691,7 +6691,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_11_trait",
-                "label": "",
+                "label": "Skill 11 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6722,7 +6722,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_12_trait",
-                "label": "",
+                "label": "Skill 12 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6753,7 +6753,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_13_trait",
-                "label": "",
+                "label": "Skill 13 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6784,7 +6784,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_14_trait",
-                "label": "",
+                "label": "Skill 14 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6815,7 +6815,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_15_trait",
-                "label": "",
+                "label": "Skill 15 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6846,7 +6846,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_16_trait",
-                "label": "",
+                "label": "Skill 16 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6877,7 +6877,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_17_trait",
-                "label": "",
+                "label": "Skill 17 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6908,7 +6908,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_18_trait",
-                "label": "",
+                "label": "Skill 18 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6939,7 +6939,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_19_trait",
-                "label": "",
+                "label": "Skill 19 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -6970,7 +6970,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_20_trait",
-                "label": "",
+                "label": "Skill 20 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7001,7 +7001,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_21_trait",
-                "label": "",
+                "label": "Skill 21 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7032,7 +7032,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_22_trait",
-                "label": "",
+                "label": "Skill 22 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7063,7 +7063,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_23_trait",
-                "label": "",
+                "label": "Skill 23 Trait",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7094,7 +7094,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_1_roll",
-                "label": "",
+                "label": "Skill 1 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7125,7 +7125,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_2_roll",
-                "label": "",
+                "label": "Skill 2 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7156,7 +7156,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_3_roll",
-                "label": "",
+                "label": "Skill 3 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7187,7 +7187,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_4_roll",
-                "label": "",
+                "label": "Skill 4 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7218,7 +7218,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_5_roll",
-                "label": "",
+                "label": "Skill 5 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7249,7 +7249,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_6_roll",
-                "label": "",
+                "label": "Skill 6 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7280,7 +7280,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_7_roll",
-                "label": "",
+                "label": "Skill 7 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7311,7 +7311,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_8_roll",
-                "label": "",
+                "label": "Skill 8 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7342,7 +7342,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_9_roll",
-                "label": "",
+                "label": "Skill 9 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7373,7 +7373,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_10_roll",
-                "label": "",
+                "label": "Skill 10 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7404,7 +7404,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_11_roll",
-                "label": "",
+                "label": "Skill 11 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7435,7 +7435,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_12_roll",
-                "label": "",
+                "label": "Skill 12 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7466,7 +7466,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_13_roll",
-                "label": "",
+                "label": "Skill 13 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7497,7 +7497,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_14_roll",
-                "label": "",
+                "label": "Skill 14 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7528,7 +7528,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_15_roll",
-                "label": "",
+                "label": "Skill 15 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7559,7 +7559,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_16_roll",
-                "label": "",
+                "label": "Skill 16 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7590,7 +7590,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_17_roll",
-                "label": "",
+                "label": "Skill 17 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7621,7 +7621,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_18_roll",
-                "label": "",
+                "label": "Skill 18 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7652,7 +7652,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_19_roll",
-                "label": "",
+                "label": "Skill 19 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7683,7 +7683,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_20_roll",
-                "label": "",
+                "label": "Skill 20 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7714,7 +7714,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_21_roll",
-                "label": "",
+                "label": "Skill 21 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7745,7 +7745,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_22_roll",
-                "label": "",
+                "label": "Skill 22 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7776,7 +7776,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_23_roll",
-                "label": "",
+                "label": "Skill 23 Roll",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7807,7 +7807,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_1_emphases",
-                "label": "",
+                "label": "Skill 1 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7838,7 +7838,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_2_emphases",
-                "label": "",
+                "label": "Skill 2 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7869,7 +7869,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_3_emphases",
-                "label": "",
+                "label": "Skill 3 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7900,7 +7900,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_4_emphases",
-                "label": "",
+                "label": "Skill 4 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7931,7 +7931,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_5_emphases",
-                "label": "",
+                "label": "Skill 5 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7962,7 +7962,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_6_emphases",
-                "label": "",
+                "label": "Skill 6 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -7993,7 +7993,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_7_emphases",
-                "label": "",
+                "label": "Skill 7 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8024,7 +8024,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_8_emphases",
-                "label": "",
+                "label": "Skill 8 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8055,7 +8055,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_9_emphases",
-                "label": "",
+                "label": "Skill 9 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8086,7 +8086,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_10_emphases",
-                "label": "",
+                "label": "Skill 10 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8117,7 +8117,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_11_emphases",
-                "label": "",
+                "label": "Skill 11 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8148,7 +8148,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_12_emphases",
-                "label": "",
+                "label": "Skill 12 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8179,7 +8179,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_13_emphases",
-                "label": "",
+                "label": "Skill 13 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8210,7 +8210,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_14_emphases",
-                "label": "",
+                "label": "Skill 14 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8241,7 +8241,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_15_emphases",
-                "label": "",
+                "label": "Skill 15 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8272,7 +8272,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_16_emphases",
-                "label": "",
+                "label": "Skill 16 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8303,7 +8303,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_17_emphases",
-                "label": "",
+                "label": "Skill 17 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8334,7 +8334,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_18_emphases",
-                "label": "",
+                "label": "Skill 18 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8365,7 +8365,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_19_emphases",
-                "label": "",
+                "label": "Skill 19 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8396,7 +8396,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_20_emphases",
-                "label": "",
+                "label": "Skill 20 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8427,7 +8427,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_21_emphases",
-                "label": "",
+                "label": "Skill 21 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8458,7 +8458,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_22_emphases",
-                "label": "",
+                "label": "Skill 22 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
@@ -8489,7 +8489,7 @@
                 "formula": "",
                 "height": 25,
                 "id": "skill_23_emphases",
-                "label": "",
+                "label": "Skill 23 Emphases",
                 "page": 0,
                 "textalign": 2,
                 "textcolor": {
