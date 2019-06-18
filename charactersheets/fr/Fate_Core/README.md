@@ -2,7 +2,7 @@
 
 Authors: sioc
 
-Contact: sioc sur tousroliste.fr
+Contact: sioc sur tousrolistes.fr
 
 Instructions: Jets de dés gérés automatiquement inclus les bonus/malus regroupés dans une seule zone "Bonus". Attention fiche en 3 pages et les images de fonds ont tendences à disparaitre suite à modification dans RCSE.
 
