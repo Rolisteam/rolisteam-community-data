@@ -2,7 +2,7 @@
 
 Authors: sioc
 
-Contact: sioc sur tousroliste.fr
+Contact: sioc sur tousrolistes.fr
 
 Instructions: Jets de dés gérés automatiquement inclus les bonus regroupés dans une seule zone "Bonus".
 
