@@ -1,0 +1,354 @@
+{
+    "bgColor": "#bfbfbf",
+    "bgPath": "/home/nicoreg/Documents/JDR/Meute/ecran_meute_bd.png",
+    "colors": [
+        {
+            "color": "#212121",
+            "group": 0,
+            "name": "WindowText",
+            "role": 0
+        },
+        {
+            "color": "#d0dbc6",
+            "group": 0,
+            "name": "Button",
+            "role": 1
+        },
+        {
+            "color": "#ffffff",
+            "group": 0,
+            "name": "Light",
+            "role": 2
+        },
+        {
+            "color": "#e9e7e3",
+            "group": 0,
+            "name": "Midlight",
+            "role": 3
+        },
+        {
+            "color": "#b3b3b3",
+            "group": 0,
+            "name": "Dark",
+            "role": 4
+        },
+        {
+            "color": "#a0a0a4",
+            "group": 0,
+            "name": "Mid",
+            "role": 5
+        },
+        {
+            "color": "#212121",
+            "group": 0,
+            "name": "Text",
+            "role": 6
+        },
+        {
+            "color": "#ffffff",
+            "group": 0,
+            "name": "BrightText",
+            "role": 7
+        },
+        {
+            "color": "#e8e6e9",
+            "group": 0,
+            "name": "Base",
+            "role": 9
+        },
+        {
+            "color": "#998d9b",
+            "group": 0,
+            "name": "Window",
+            "role": 10
+        },
+        {
+            "color": "#a5a5a5",
+            "group": 0,
+            "name": "Shadow",
+            "role": 11
+        },
+        {
+            "color": "#a17d60",
+            "group": 0,
+            "name": "Highlight",
+            "role": 12
+        },
+        {
+            "color": "#f5f5f5",
+            "group": 0,
+            "name": "WindowText",
+            "role": 13
+        },
+        {
+            "color": "#0000ff",
+            "group": 0,
+            "name": "Link",
+            "role": 14
+        },
+        {
+            "color": "#ff00ff",
+            "group": 0,
+            "name": "LinkVisited",
+            "role": 15
+        },
+        {
+            "color": "#e8e6e9",
+            "group": 0,
+            "name": "AlternateBase",
+            "role": 16
+        },
+        {
+            "color": "#ffffdc",
+            "group": 0,
+            "name": "ToolTipBase",
+            "role": 18
+        },
+        {
+            "color": "#212121",
+            "group": 0,
+            "name": "ToolTipText",
+            "role": 19
+        },
+        {
+            "color": "#000000",
+            "group": 0,
+            "name": "NoRole",
+            "role": 17
+        },
+        {
+            "color": "#212121",
+            "group": 2,
+            "name": "WindowText",
+            "role": 0
+        },
+        {
+            "color": "#d0dbc6",
+            "group": 2,
+            "name": "Button",
+            "role": 1
+        },
+        {
+            "color": "#ffffff",
+            "group": 2,
+            "name": "Light",
+            "role": 2
+        },
+        {
+            "color": "#e9e7e3",
+            "group": 2,
+            "name": "Midlight",
+            "role": 3
+        },
+        {
+            "color": "#b3b3b3",
+            "group": 2,
+            "name": "Dark",
+            "role": 4
+        },
+        {
+            "color": "#a0a0a4",
+            "group": 2,
+            "name": "Mid",
+            "role": 5
+        },
+        {
+            "color": "#212121",
+            "group": 2,
+            "name": "Text",
+            "role": 6
+        },
+        {
+            "color": "#ffffff",
+            "group": 2,
+            "name": "BrightText",
+            "role": 7
+        },
+        {
+            "color": "#e8e6e9",
+            "group": 2,
+            "name": "Base",
+            "role": 9
+        },
+        {
+            "color": "#998d9b",
+            "group": 2,
+            "name": "Window",
+            "role": 10
+        },
+        {
+            "color": "#a5a5a5",
+            "group": 2,
+            "name": "Shadow",
+            "role": 11
+        },
+        {
+            "color": "#9f7c5f",
+            "group": 2,
+            "name": "Highlight",
+            "role": 12
+        },
+        {
+            "color": "#f5f5f5",
+            "group": 2,
+            "name": "WindowText",
+            "role": 13
+        },
+        {
+            "color": "#0000ff",
+            "group": 2,
+            "name": "Link",
+            "role": 14
+        },
+        {
+            "color": "#ff00ff",
+            "group": 2,
+            "name": "LinkVisited",
+            "role": 15
+        },
+        {
+            "color": "#e8e6e9",
+            "group": 2,
+            "name": "AlternateBase",
+            "role": 16
+        },
+        {
+            "color": "#ffffdc",
+            "group": 2,
+            "name": "ToolTipBase",
+            "role": 18
+        },
+        {
+            "color": "#212121",
+            "group": 2,
+            "name": "ToolTipText",
+            "role": 19
+        },
+        {
+            "color": "#000000",
+            "group": 2,
+            "name": "NoRole",
+            "role": 17
+        },
+        {
+            "color": "#7b7b7b",
+            "group": 1,
+            "name": "WindowText",
+            "role": 0
+        },
+        {
+            "color": "#d0dbc6",
+            "group": 1,
+            "name": "Button",
+            "role": 1
+        },
+        {
+            "color": "#ffffff",
+            "group": 1,
+            "name": "Light",
+            "role": 2
+        },
+        {
+            "color": "#e9e7e3",
+            "group": 1,
+            "name": "Midlight",
+            "role": 3
+        },
+        {
+            "color": "#b3b3b3",
+            "group": 1,
+            "name": "Dark",
+            "role": 4
+        },
+        {
+            "color": "#a0a0a4",
+            "group": 1,
+            "name": "Mid",
+            "role": 5
+        },
+        {
+            "color": "#7b7b7b",
+            "group": 1,
+            "name": "Text",
+            "role": 6
+        },
+        {
+            "color": "#ffffff",
+            "group": 1,
+            "name": "BrightText",
+            "role": 7
+        },
+        {
+            "color": "#e8e6e9",
+            "group": 1,
+            "name": "Base",
+            "role": 9
+        },
+        {
+            "color": "#998d9b",
+            "group": 1,
+            "name": "Window",
+            "role": 10
+        },
+        {
+            "color": "#a5a5a5",
+            "group": 1,
+            "name": "Shadow",
+            "role": 11
+        },
+        {
+            "color": "#a1a1a1",
+            "group": 1,
+            "name": "Highlight",
+            "role": 12
+        },
+        {
+            "color": "#f5f5f5",
+            "group": 1,
+            "name": "WindowText",
+            "role": 13
+        },
+        {
+            "color": "#0000ff",
+            "group": 1,
+            "name": "Link",
+            "role": 14
+        },
+        {
+            "color": "#ff00ff",
+            "group": 1,
+            "name": "LinkVisited",
+            "role": 15
+        },
+        {
+            "color": "#e8e6e9",
+            "group": 1,
+            "name": "AlternateBase",
+            "role": 16
+        },
+        {
+            "color": "#ffffdc",
+            "group": 1,
+            "name": "ToolTipBase",
+            "role": 18
+        },
+        {
+            "color": "#212121",
+            "group": 1,
+            "name": "ToolTipText",
+            "role": 19
+        },
+        {
+            "color": "#000000",
+            "group": 1,
+            "name": "NoRole",
+            "role": 17
+        }
+    ],
+    "css": "",
+    "diceHighlight": "#000000",
+    "name": "Meute",
+    "position": 6,
+    "removable": true,
+    "stylename": "fusion"
+}

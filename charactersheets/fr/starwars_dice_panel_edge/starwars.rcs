@@ -1,0 +1,142 @@
+{
+    "additionnalCode": "",
+    "additionnalCodeTop": true,
+    "additionnalImport": "",
+    "background": [
+    ],
+    "characterCount": 6,
+    "characters": [
+        {
+            "idSheet": "{c9db2936-3d71-432c-8560-359d15edd84d}",
+            "name": "Character 1",
+            "values": {
+                "id_1": {
+                    "formula": "",
+                    "id": "id_1",
+                    "label": "value",
+                    "readonly": false,
+                    "type": "field",
+                    "typefield": 0,
+                    "value": ""
+                }
+            }
+        },
+        {
+            "idSheet": "{b6e20186-c6a7-48fc-836a-b8e3eff77961}",
+            "name": "Character 2",
+            "values": {
+                "id_1": {
+                    "formula": "",
+                    "id": "id_1",
+                    "label": "value",
+                    "readonly": false,
+                    "type": "field",
+                    "typefield": 0,
+                    "value": ""
+                }
+            }
+        },
+        {
+            "idSheet": "{8f89cb3d-13a5-4333-9733-f3d5a84880d2}",
+            "name": "Character 3",
+            "values": {
+                "id_1": {
+                    "formula": "",
+                    "id": "id_1",
+                    "label": "value",
+                    "readonly": false,
+                    "type": "field",
+                    "typefield": 0,
+                    "value": ""
+                }
+            }
+        },
+        {
+            "idSheet": "{9dbe086e-7119-416c-8d0f-b19c60a556f8}",
+            "name": "Character 4",
+            "values": {
+                "id_1": {
+                    "formula": "",
+                    "id": "id_1",
+                    "label": "value",
+                    "readonly": false,
+                    "type": "field",
+                    "typefield": 0,
+                    "value": ""
+                }
+            }
+        },
+        {
+            "idSheet": "{5dbeee1e-3229-4694-93af-5eaacac54612}",
+            "name": "Character 5",
+            "values": {
+                "id_1": {
+                    "formula": "",
+                    "id": "id_1",
+                    "label": "value",
+                    "readonly": false,
+                    "type": "field",
+                    "typefield": 0,
+                    "value": ""
+                }
+            }
+        },
+        {
+            "idSheet": "{25c5bc22-29f8-4f32-934b-bd404bc22d52}",
+            "name": "Character 6",
+            "values": {
+                "id_1": {
+                    "formula": "",
+                    "id": "id_1",
+                    "label": "value",
+                    "readonly": false,
+                    "type": "field",
+                    "typefield": 0,
+                    "value": ""
+                }
+            }
+        }
+    ],
+    "data": {
+        "items": [
+            {
+                "bgcolor": {
+                    "a": 0,
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                },
+                "border": 16,
+                "clippedText": false,
+                "font": "Ubuntu,11,-1,5,50,0,0,0,0,0",
+                "formula": "",
+                "height": 51,
+                "id": "id_1",
+                "label": "value",
+                "page": 0,
+                "textalign": 2,
+                "textcolor": {
+                    "a": 255,
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                },
+                "type": "field",
+                "typefield": 0,
+                "value": "yellow5.png,yellow4.png,yellow0.png,green4.png,green2.png,green2.png,green5.png",
+                "values": [
+                ],
+                "width": 138,
+                "x": 67,
+                "y": 54
+            }
+        ],
+        "name": "",
+        "type": "Section"
+    },
+    "fixedScale": 1,
+    "flickable": false,
+    "fonts": [
+    ],
+    "qml": "import QtQuick 2.0\nimport QtQuick.Layouts 1.3\nimport QtQuick.Controls 1.4\n\nRectangle {\n    id: swDice\n    color: \"gray\"\n    height: 400\n    width: 900\n\n    property var model: []\n\n    signal rollDiceCmd(string cmd)\n\n    property alias yellowCount: yellow.value\n    property alias whiteCount:  white.value\n    property alias blackCount:  black.value\n    property alias blueCount:  blue.value\n    property alias greenCount:  green.value\n    property alias violetCount:  violet.value\n    property alias redCount:  red.value\n    property int success : 0\n    property int fail: 0\n    property int advantage: 0\n    property int desavantage: 0\n    property int triomphe: 0\n    property int disaster: 0\n    readonly property string path: \"http://blog.rolisteam.org/file/starwars/\"\n    property string resultData: id_1.value\n    onResultDataChanged: {\n        if(repeat.model.join() !== resultData)\n            repeat.model = resultData.split(\",\");\n    }\n\n    function imageToValue(img)\n    {\n        if(img === \"yellow5.png\")\n        { //Succes, Avantage\n\tswDice.success +=1\n\tswDice.advantage += 1\n        }\n        else if(img === \"yellow4.png\")\n\tswDice.thiomphe += 1\n        else if(img === \"yellow3.png\")\n\tswDice.advantage += 1\n        else if(img === \"yellow2.png\")\n\tswDice.success +=2\n        else if(img === \"yellow1.png\")\n\tswDice.success +=1\n        else if(img === \"yellow0.png\")\n\tswDice.advantage += 2\n        else if(img === \"violet5.png\")\n            \tswDice.desavantage += 2\n        else if(img === \"violet4.png\")\n            \tswDice.fail += 1\n        else if(img === \"violet3.png\")\n            \tswDice.fail +=2\n        else if(img === \"violet2.png\")\n        {\n\tswDice.fail += 1\n\tswDice.desavantage += 1\n        }\n        else if(img === \"violet0.png\")\n            \tswDice.desavantage += 1\n        else if(img === \"red5.png\")\n            \tswDice.desavantage += 1\n        else if(img === \"red4.png\")\n\tswDice.disaster +=1\n        else if(img === \"red3.png\")\n                        swDice.fail += 1\n        else if(img === \"red2.png\")\n            swDice.fail += 2\n        else if(img === \"red1.png\")\n{\n            swDice.fail += 1\n             swDice.desavantage += 1\n}\n        else if(img === \"red0.png\")\n                       swDice.desavantage += 2\n        else if(img === \"green4.png\")\n\tswDice.success +=2\n        else if(img === \"green3.png\")\n            \tswDice.advantage += 2\n        else if(img === \"green2.png\")\n            \tswDice.advantage += 1\n        else if(img === \"green1.png\")\n{\n\tswDice.success +=1\n            \tswDice.advantage += 1\n}\n        else if(img === \"green0.png\")\n\tswDice.success +=1\n        else if(img === \"black1.png\")\n                        swDice.desavantage += 1\n        else if(img === \"black0.png\")\n            \tswDice.fail += 1\n        else if(img === \"blue3.png\")\n            \tswDice.advantage += 1\n        else if(img === \"blue2.png\")\n{\n\tswDice.success +=1\n\tswDice.advantage += 1\n}\n        else if(img === \"blue1.png\")\n           \tswDice.advantage += 2\n        else if(img === \"blue0.png\")\n\tswDice.success +=1\n        /*else if(img === \"white3.png\")\n            return \"Obscur, Obscur\"\n        else if(img === \"white2.png\")\n            return \"Lumineux\"\n        else if(img === \"white1.png\")\n            return \"Lumineux, Lumineux\"\n        else if(img === \"white0.png\")\n            return \"Obscur\"\n        else\n            return \"\"*/\n    }\n\n    function computeResult()\n    {\n        swDice.model = []\n\tswDice.success = 0\n\tswDice.fail= 0\n\tswDice.advantage= 0\n\tswDice.desavantage= 0\n\tswDice.triomphe= 0\n    \tswDice.disaster= 0\n        //white\n        for(var i = 0; i < whiteCount; ++i )\n        {\n            swDice.model.push(whiteToImage(rollDice(12)));\n        }\n        //red\n        for( i = 0; i < redCount; ++i )\n        {\n            swDice.model.push(redToImage(rollDice(12)));\n        }\n        //yellow\n        for( i = 0; i < yellowCount; ++i )\n        {\n            swDice.model.push(yellowToImage(rollDice(12)));\n        }\n\n        //violet\n        for( i = 0; i < violetCount; ++i )\n        {\n            swDice.model.push(violetToImage(rollDice(8)));\n        }\n        //green\n        for( i = 0; i < greenCount; ++i )\n        {\n            swDice.model.push(greenToImage(rollDice(8)));\n        }\n\n        //black\n        for( i = 0; i < blackCount; ++i )\n        {\n            swDice.model.push(blackToImage(rollDice(6)));\n        }\n        //blue\n        for( i = 0; i < blueCount; ++i )\n        {\n            swDice.model.push(blueToImage(rollDice(6)));\n        }\n        repeat.model = swDice.model\n\n        id_1.value = swDice.model.join();\n\n        \n        for(var x in swDice.model)\n        {\n            imageToValue(swDice.model[x])\n        }\n\n        var resultStr=\"\";\n        var jetR = swDice.success-swDice.fail\n         if(jetR>0)\n         {\n                 resultStr+=jetR+\" succès\"\n         }\n         else if(jetR<0)\n         {\n                 resultStr+=Math.abs(jetR)+\" echecs\"\t\n         }\n        else\n                 resultStr+=\"Échec du jet (égalité)\"\n        resultStr+=\" \"\n\n         var jetAge = swDice.advantage - swDice.desavantage\n         if(jetAge>0)\n         {\n                 resultStr+=jetAge+\" avantage\"\n         }\n         else if(Math.abs( jetAge)>0)\n         {\n                 resultStr+=Math.abs(jetAge)+\" désavantage\"\t\n         }\n        if(Math.abs( jetAge)>1)\n\tresultStr+=\"s\"\n        resultStr+=\" \"\n\n        if(swDice.disaster>0)\n                resultStr+=swDice.disaster+\" désastre\"\n        if(swDice.disaster>1)\n                resultStr+=\"s\"\n        resultStr+=\" \"\n\n        if(swDice.triomphe>0)\n                resultStr+=swDice.triomphe+\" triomphe\"\n        if(swDice.triomphe>1)\n                resultStr+=\"s\"\n        resultStr+=\" \"\n         var cmd = \"d1i[=1]{\\\"\"\n        cmd += resultStr\n        cmd += \"\\\"}\"\n\n        rollDiceCmd(cmd)\n    }\n\n\n    function redToImage(value)\n    {//challenge die\n        switch(value)\n        {\n            case 1:\n                return \"red6.png\"\n            case 2:\n            case 3:\n                return \"red3.png\"\n            case 4:\n            case 5:\n                return \"red2.png\"\n            case 6:\n            case 7:\n                return \"red5.png\"\n            case 8:\n            case 9:\n                return \"red1.png\"\n            case 10:\n            case 11:\n                return \"red0.png\"\n            case 12:\n                return \"red4.png\"\n        }\n    }\n    function whiteToImage(value)\n    {//force die\n        switch(value)\n        {\n            case 1:\n            case 2:\n            case 3:\n            case 4:\n            case 5:\n            case 6:\n                return \"white0.png\"\n            case 7:\n                return \"white3.png\"\n            case 8:\n            case 9:\n                return \"white2.png\"\n            case 10:\n            case 11:\n            case 12:\n                return \"white1.png\"\n        }\n    }\n\n    function yellowToImage(value)\n    {//Proficiency die\n        switch(value)\n        {\n            case 1:\n                return \"yellow6.png\"\n            case 2:\n            case 3:\n                return \"yellow1.png\"\n            case 4:\n            case 5:\n                return \"yellow2.png\"\n            case 6:\n                return \"yellow3.png\"\n            case 7:\n            case 8:\n            case 9:\n                return \"yellow5.png\"\n            case 10:\n            case 11:\n                return \"yellow0.png\"\n            case 12:\n                return \"yellow4.png\"\n        }\n    }\n\n    function violetToImage(value)\n    {//difficulty die\n        switch(value)\n        {\n            case 1:\n                return \"violet1.png\"\n            case 2:\n                return \"violet4.png\"\n            case 3:\n                return \"violet3.png\"\n            case 4:\n            case 5:\n            case 6:\n                return \"violet0.png\"\n            case 7:\n                return \"violet5.png\"\n            case 8:\n                return \"violet2.png\"\n        }\n    }\n\n    function greenToImage(value)\n    {//ability die\n        switch(value)\n        {\n            case 1:\n                return \"green5.png\"\n            case 2:\n            case 3:\n                return \"green0.png\"\n            case 4:\n                return \"green4.png\"\n            case 5:\n            case 6:\n                return \"green2.png\"\n            case 7:\n                return \"green1.png\"\n            case 8:\n                return \"green3.png\"\n        }\n    }\n\n    function blackToImage(value)\n    {//setback die\n        switch(value)\n        {\n            case 1:\n            case 2:\n                return \"black2.png\"\n            case 3:\n            case 4:\n                return \"black0.png\"\n            case 5:\n            case 6:\n                return \"black1.png\"\n\n        }\n    }\n\n\n    function blueToImage(value)\n    {//boost die\n        switch(value)\n        {\n            case 1:\n            case 2:\n                return \"blue4.png\"\n            case 3:\n                return \"blue1.png\"\n            case 4:\n                return \"blue3.png\"\n            case 5:\n                return \"blue2.png\"\n            case 6:\n                return \"blue0.png\"\n\n        }\n    }\n\n    function rollDice(faces)\n    {\n       return Math.floor((Math.random() * faces) + 1);\n    }\n\n    RowLayout {\n        id: buttons\n        anchors.left: parent.left\n        anchors.right: parent.right\n        anchors.top: parent.top\n        anchors.leftMargin: 50\n        GridLayout {\n            columns: 7\n        //white\n            Text {\n                text: \"Force Die\"\n            }\n            Text {\n                text: \"Challenge Die\"\n            }\n            Text {\n                text: \"Proficiency Die\"\n            }\n            Text {\n                text: \"Ability Die\"\n            }\n            Text {\n                text: \"Difficulty Die\"\n            }\n            Text {\n                text: \"Setback Die\"\n            }\n            Text {\n                text: \"Boost Die\"\n            }\n            Image {\n                source: path+\"white0.png\"\n            }\n            Image {\n                source: path+\"red6.png\"\n            }\n            Image {\n                source: path+\"yellow6.png\"\n            }\n            Image {\n                source: path+\"green5.png\"\n            }\n            Image {\n                source: path+\"violet1.png\"\n            }\n            Image {\n                source: path+\"black2.png\"\n            }\n            Image {\n                source: path+\"blue4.png\"\n            }\n            SpinBox {\n                id: white\n                minimumValue: 0\n                maximumValue: 100\n                value: 0\n            }\n            SpinBox {\n                id: red\n                minimumValue: 0\n                maximumValue: 100\n                value: 0\n            }\n            SpinBox {\n                id: yellow\n                minimumValue: 0\n                maximumValue: 100\n                value: 0\n            }\n            SpinBox {\n                id: green\n                minimumValue: 0\n                maximumValue: 100\n                value: 0\n            }\n            SpinBox {\n                id: violet\n                minimumValue: 0\n                maximumValue: 100\n                value: 0\n            }\n            SpinBox {\n                id: black\n                minimumValue: 0\n                maximumValue: 100\n                value: 0\n            }\n            SpinBox {\n                id: blue\n                minimumValue: 0\n                maximumValue: 100\n                value: 0\n            }\n        }\n        Rectangle {\n            id: roll\n            color: \"red\"\n            radius: width/4\n            Layout.fillHeight: true\n            Layout.fillWidth: true\n            Text {\n                text: \"Roll\"\n                font.pixelSize: 28\n                anchors.fill: parent\n                verticalAlignment: Text.AlignVCenter\n                horizontalAlignment: Text.AlignHCenter\n            }\n\n            MouseArea {\n                anchors.fill: parent\n                onClicked: computeResult()\n                onPressed: {\n                    roll.scale = 0.8\n                }\n                onReleased: {\n                    roll.scale = 1.0\n                }\n            }\n        }\n    }\n    Text {\n        id: result\n        text: \"Resultat\"\n        anchors.top: buttons.bottom\n    }\n    Grid {\n        anchors.top: result.bottom\n        anchors.left: parent.left\n        anchors.right: parent.right\n        anchors.bottom: parent.bottom\n        columns: 10\n        Repeater {\n            id: repeat\n            model: swDice.model\n            Image {\n                height: 60\n                source: swDice.path+modelData\n                fillMode: Image.PreserveAspectFit\n            }\n        }\n    }\n\n\n}\n"
+}
